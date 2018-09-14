@@ -21,5 +21,11 @@ Allows you to view the current state of a Minecraft server **without opening Min
 ### End</br>
 最后
 
+If the detected server is a BungeeCore group service, the player list will not be obtained correctly.</br>
+如果检测的服务器是BungeeCore群组服将无法正确获取玩家列表。
+
 This program relies on [MinecraftOutClient](https://github.com/FastChen/MinecraftOutClientWPF).</br>
 本程序依赖于[MinecraftOutClient](https://github.com/FastChen/MinecraftOutClientWPF)。
+
+I love Google Translate.</br>
+我爱你们。
