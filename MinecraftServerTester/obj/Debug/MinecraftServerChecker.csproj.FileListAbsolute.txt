@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\MinecraftServerTester\MinecraftServerTester\bin\Debug\MinecraftServerTester.exe.config
+C:\Users\Administrator\source\repos\MinecraftServerTester\MinecraftServerTester\bin\Debug\MinecraftServerTester.exe
+C:\Users\Administrator\source\repos\MinecraftServerTester\MinecraftServerTester\bin\Debug\MinecraftServerTester.pdb
+C:\Users\Administrator\source\repos\MinecraftServerTester\MinecraftServerTester\obj\Debug\MinecraftServerChecker.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\MinecraftServerTester\MinecraftServerTester\obj\Debug\MinecraftServerTester.Form1.resources
+C:\Users\Administrator\source\repos\MinecraftServerTester\MinecraftServerTester\obj\Debug\MinecraftServerTester.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MinecraftServerTester\MinecraftServerTester\obj\Debug\MinecraftServerChecker.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MinecraftServerTester\MinecraftServerTester\obj\Debug\MinecraftServerChecker.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MinecraftServerTester\MinecraftServerTester\obj\Debug\MinecraftServerChecker.csproj.CopyComplete
+C:\Users\Administrator\source\repos\MinecraftServerTester\MinecraftServerTester\obj\Debug\MinecraftServerTester.exe
+C:\Users\Administrator\source\repos\MinecraftServerTester\MinecraftServerTester\obj\Debug\MinecraftServerTester.pdb
